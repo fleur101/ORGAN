@@ -1,0 +1,3 @@
+exp_name,Batch,mean_length,n_samples,uniq_samples,good_samples,bad_samples,model_samples
+last_test,0,37.7668125,32000,31814,14547,17453,last_test_0
+last_test,1,37.9028125,6400,6390,2928,3472,last_test_1

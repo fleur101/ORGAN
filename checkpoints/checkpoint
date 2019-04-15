@@ -1,0 +1,2 @@
+model_checkpoint_path: "last_test_pretrain_ckpt"
+all_model_checkpoint_paths: "last_test_pretrain_ckpt"

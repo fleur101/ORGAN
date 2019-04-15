@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/fazli/organ/ORGAN/checkpoints/test/test_1.ckpt"
+all_model_checkpoint_paths: "/home/fazli/organ/ORGAN/checkpoints/test/test_1.ckpt"
